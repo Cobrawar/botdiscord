@@ -236,7 +236,7 @@ bot.on('message', message => {
 
 /////////////////////////////////////////////////MUSIQUE////////////////////////////////////////////////////////
 
-client.login('NDMxODc4MTMxNDU2OTMzODg5.DcJiFw.0uhqMJfknMKFvRlg0nuV4UrZAOY');
+bot.login(process.env.NDMxODc4MTMxNDU2OTMzODg5.DcJiFw.0uhqMJfknMKFvRlg0nuV4UrZAOY)
 
 client.on('message', message => {
   
